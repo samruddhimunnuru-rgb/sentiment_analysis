@@ -1,3 +1,4 @@
+<img width="804" height="684" alt="Screenshot 2026-04-05 115757" src="https://github.com/user-attachments/assets/3e33cba5-28d4-428c-ba50-2e61f99dc36c" />
 ## Aspect-Based Sentiment Analysis on App Reviews
 
 # Project Overview
